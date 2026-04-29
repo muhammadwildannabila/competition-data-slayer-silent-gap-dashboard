@@ -1,0 +1,381 @@
+Provinsi,Segmentasi Wilayah,Tahun,Telepon Kabel
+Aceh,Perkotaan,2020,0.41
+Aceh,Perkotaan,2021,0.74
+Aceh,Perkotaan,2022,0.78
+Aceh,Perkotaan,2023,0.41
+Aceh,Perkotaan,2024,0.52
+Aceh,Perdesaan,2020,0.12
+Aceh,Perdesaan,2021,0.18
+Aceh,Perdesaan,2022,0.13
+Aceh,Perdesaan,2023,0.37
+Aceh,Perdesaan,2024,0.26
+Bali,Perkotaan,2020,5.06
+Bali,Perkotaan,2021,3.01
+Bali,Perkotaan,2022,3.2
+Bali,Perkotaan,2023,2.65
+Bali,Perkotaan,2024,2.2
+Bali,Perdesaan,2020,0.12
+Bali,Perdesaan,2021,0.23
+Bali,Perdesaan,2022,0.38
+Bali,Perdesaan,2023,0.43
+Bali,Perdesaan,2024,0.15
+Banten,Perkotaan,2020,2.48
+Banten,Perkotaan,2021,1.92
+Banten,Perkotaan,2022,2.16
+Banten,Perkotaan,2023,2.43
+Banten,Perkotaan,2024,1.59
+Banten,Perdesaan,2020,0.4
+Banten,Perdesaan,2021,0.3
+Banten,Perdesaan,2022,0.11
+Banten,Perdesaan,2023,0.07
+Banten,Perdesaan,2024,0.23
+Bengkulu,Perkotaan,2020,2.74
+Bengkulu,Perkotaan,2021,1.76
+Bengkulu,Perkotaan,2022,1.82
+Bengkulu,Perkotaan,2023,1.83
+Bengkulu,Perkotaan,2024,1.4
+Bengkulu,Perdesaan,2020,0.33
+Bengkulu,Perdesaan,2021,0.1
+Bengkulu,Perdesaan,2022,0.19
+Bengkulu,Perdesaan,2023,0.17
+Bengkulu,Perdesaan,2024,0.12
+DI Yogyakarta,Perkotaan,2020,6.04
+DI Yogyakarta,Perkotaan,2021,4.41
+DI Yogyakarta,Perkotaan,2022,4.95
+DI Yogyakarta,Perkotaan,2023,4.19
+DI Yogyakarta,Perkotaan,2024,3.26
+DI Yogyakarta,Perdesaan,2020,0.19
+DI Yogyakarta,Perdesaan,2021,0.08
+DI Yogyakarta,Perdesaan,2022,0.17
+DI Yogyakarta,Perdesaan,2023,0.23
+DI Yogyakarta,Perdesaan,2024,0.17
+DKI Jakarta,Perkotaan,2020,7.75
+DKI Jakarta,Perkotaan,2021,8.96
+DKI Jakarta,Perkotaan,2022,8.22
+DKI Jakarta,Perkotaan,2023,7.32
+DKI Jakarta,Perkotaan,2024,5.98
+DKI Jakarta,Perdesaan,2020,0.1
+DKI Jakarta,Perdesaan,2021,
+DKI Jakarta,Perdesaan,2022,
+DKI Jakarta,Perdesaan,2023,
+DKI Jakarta,Perdesaan,2024,
+Gorontalo,Perkotaan,2020,0.45
+Gorontalo,Perkotaan,2021,0.36
+Gorontalo,Perkotaan,2022,0.06
+Gorontalo,Perkotaan,2023,0.11
+Gorontalo,Perkotaan,2024,0.02
+Gorontalo,Perdesaan,2020,0.03
+Gorontalo,Perdesaan,2021,
+Gorontalo,Perdesaan,2022,
+Gorontalo,Perdesaan,2023,0.19
+Gorontalo,Perdesaan,2024,
+Jambi,Perkotaan,2020,2.02
+Jambi,Perkotaan,2021,1.89
+Jambi,Perkotaan,2022,1.39
+Jambi,Perkotaan,2023,1.16
+Jambi,Perkotaan,2024,1.21
+Jambi,Perdesaan,2020,0.28
+Jambi,Perdesaan,2021,0.32
+Jambi,Perdesaan,2022,0.16
+Jambi,Perdesaan,2023,0.37
+Jambi,Perdesaan,2024,0.1
+Jawa Barat,Perkotaan,2020,2.83
+Jawa Barat,Perkotaan,2021,2.07
+Jawa Barat,Perkotaan,2022,2.03
+Jawa Barat,Perkotaan,2023,1.66
+Jawa Barat,Perkotaan,2024,1.42
+Jawa Barat,Perdesaan,2020,0.22
+Jawa Barat,Perdesaan,2021,0.04
+Jawa Barat,Perdesaan,2022,0.18
+Jawa Barat,Perdesaan,2023,0.16
+Jawa Barat,Perdesaan,2024,0.25
+Jawa Tengah,Perkotaan,2020,3.19
+Jawa Tengah,Perkotaan,2021,2.14
+Jawa Tengah,Perkotaan,2022,1.76
+Jawa Tengah,Perkotaan,2023,1.35
+Jawa Tengah,Perkotaan,2024,1.31
+Jawa Tengah,Perdesaan,2020,0.53
+Jawa Tengah,Perdesaan,2021,0.2
+Jawa Tengah,Perdesaan,2022,0.14
+Jawa Tengah,Perdesaan,2023,0.2
+Jawa Tengah,Perdesaan,2024,0.17
+Jawa Timur,Perkotaan,2020,2.03
+Jawa Timur,Perkotaan,2021,1.91
+Jawa Timur,Perkotaan,2022,1.69
+Jawa Timur,Perkotaan,2023,1.3
+Jawa Timur,Perkotaan,2024,1.21
+Jawa Timur,Perdesaan,2020,0.15
+Jawa Timur,Perdesaan,2021,0.11
+Jawa Timur,Perdesaan,2022,0.16
+Jawa Timur,Perdesaan,2023,0.31
+Jawa Timur,Perdesaan,2024,0.11
+Kalimantan Barat,Perkotaan,2020,1.61
+Kalimantan Barat,Perkotaan,2021,1.82
+Kalimantan Barat,Perkotaan,2022,1.1
+Kalimantan Barat,Perkotaan,2023,0.65
+Kalimantan Barat,Perkotaan,2024,1.05
+Kalimantan Barat,Perdesaan,2020,
+Kalimantan Barat,Perdesaan,2021,0.06
+Kalimantan Barat,Perdesaan,2022,0.07
+Kalimantan Barat,Perdesaan,2023,0.07
+Kalimantan Barat,Perdesaan,2024,0.06
+Kalimantan Selatan,Perkotaan,2020,1.66
+Kalimantan Selatan,Perkotaan,2021,1.28
+Kalimantan Selatan,Perkotaan,2022,0.67
+Kalimantan Selatan,Perkotaan,2023,0.61
+Kalimantan Selatan,Perkotaan,2024,0.89
+Kalimantan Selatan,Perdesaan,2020,0.16
+Kalimantan Selatan,Perdesaan,2021,0.04
+Kalimantan Selatan,Perdesaan,2022,0.19
+Kalimantan Selatan,Perdesaan,2023,0.17
+Kalimantan Selatan,Perdesaan,2024,0.29
+Kalimantan Tengah,Perkotaan,2020,1.31
+Kalimantan Tengah,Perkotaan,2021,0.66
+Kalimantan Tengah,Perkotaan,2022,0.57
+Kalimantan Tengah,Perkotaan,2023,0.65
+Kalimantan Tengah,Perkotaan,2024,0.03
+Kalimantan Tengah,Perdesaan,2020,0.09
+Kalimantan Tengah,Perdesaan,2021,0.03
+Kalimantan Tengah,Perdesaan,2022,0.06
+Kalimantan Tengah,Perdesaan,2023,0.01
+Kalimantan Tengah,Perdesaan,2024,0.03
+Kalimantan Timur,Perkotaan,2020,2.2
+Kalimantan Timur,Perkotaan,2021,1.36
+Kalimantan Timur,Perkotaan,2022,1.72
+Kalimantan Timur,Perkotaan,2023,1.6
+Kalimantan Timur,Perkotaan,2024,0.81
+Kalimantan Timur,Perdesaan,2020,
+Kalimantan Timur,Perdesaan,2021,0.36
+Kalimantan Timur,Perdesaan,2022,0.57
+Kalimantan Timur,Perdesaan,2023,0.04
+Kalimantan Timur,Perdesaan,2024,0.38
+Kalimantan Utara,Perkotaan,2020,1.0
+Kalimantan Utara,Perkotaan,2021,0.23
+Kalimantan Utara,Perkotaan,2022,0.94
+Kalimantan Utara,Perkotaan,2023,0.89
+Kalimantan Utara,Perkotaan,2024,0.97
+Kalimantan Utara,Perdesaan,2020,0.26
+Kalimantan Utara,Perdesaan,2021,0.01
+Kalimantan Utara,Perdesaan,2022,0.77
+Kalimantan Utara,Perdesaan,2023,0.08
+Kalimantan Utara,Perdesaan,2024,0.3
+Kep. Bangka Belitung,Perkotaan,2020,1.27
+Kep. Bangka Belitung,Perkotaan,2021,1.16
+Kep. Bangka Belitung,Perkotaan,2022,0.9
+Kep. Bangka Belitung,Perkotaan,2023,1.03
+Kep. Bangka Belitung,Perkotaan,2024,0.44
+Kep. Bangka Belitung,Perdesaan,2020,0.22
+Kep. Bangka Belitung,Perdesaan,2021,0.09
+Kep. Bangka Belitung,Perdesaan,2022,0.08
+Kep. Bangka Belitung,Perdesaan,2023,0.09
+Kep. Bangka Belitung,Perdesaan,2024,0.11
+Kep. Riau,Perkotaan,2020,2.21
+Kep. Riau,Perkotaan,2021,1.44
+Kep. Riau,Perkotaan,2022,1.79
+Kep. Riau,Perkotaan,2023,1.12
+Kep. Riau,Perkotaan,2024,0.72
+Kep. Riau,Perdesaan,2020,0.04
+Kep. Riau,Perdesaan,2021,
+Kep. Riau,Perdesaan,2022,0.06
+Kep. Riau,Perdesaan,2023,0.07
+Kep. Riau,Perdesaan,2024,0.22
+Lampung,Perkotaan,2020,1.38
+Lampung,Perkotaan,2021,0.84
+Lampung,Perkotaan,2022,0.74
+Lampung,Perkotaan,2023,1.16
+Lampung,Perkotaan,2024,0.82
+Lampung,Perdesaan,2020,0.03
+Lampung,Perdesaan,2021,0.02
+Lampung,Perdesaan,2022,0.1
+Lampung,Perdesaan,2023,0.12
+Lampung,Perdesaan,2024,0.26
+Maluku,Perkotaan,2020,2.18
+Maluku,Perkotaan,2021,1.63
+Maluku,Perkotaan,2022,0.62
+Maluku,Perkotaan,2023,1.45
+Maluku,Perkotaan,2024,0.98
+Maluku,Perdesaan,2020,0.01
+Maluku,Perdesaan,2021,0.11
+Maluku,Perdesaan,2022,0.38
+Maluku,Perdesaan,2023,0.46
+Maluku,Perdesaan,2024,0.21
+Maluku Utara,Perkotaan,2020,0.12
+Maluku Utara,Perkotaan,2021,
+Maluku Utara,Perkotaan,2022,0.75
+Maluku Utara,Perkotaan,2023,1.3
+Maluku Utara,Perkotaan,2024,1.26
+Maluku Utara,Perdesaan,2020,0.24
+Maluku Utara,Perdesaan,2021,
+Maluku Utara,Perdesaan,2022,0.18
+Maluku Utara,Perdesaan,2023,0.12
+Maluku Utara,Perdesaan,2024,0.06
+Nusa Tenggara Barat,Perkotaan,2020,0.6
+Nusa Tenggara Barat,Perkotaan,2021,0.4
+Nusa Tenggara Barat,Perkotaan,2022,0.53
+Nusa Tenggara Barat,Perkotaan,2023,0.75
+Nusa Tenggara Barat,Perkotaan,2024,0.45
+Nusa Tenggara Barat,Perdesaan,2020,0.08
+Nusa Tenggara Barat,Perdesaan,2021,0.03
+Nusa Tenggara Barat,Perdesaan,2022,0.03
+Nusa Tenggara Barat,Perdesaan,2023,0.27
+Nusa Tenggara Barat,Perdesaan,2024,0.12
+Nusa Tenggara Timur,Perkotaan,2020,0.65
+Nusa Tenggara Timur,Perkotaan,2021,0.67
+Nusa Tenggara Timur,Perkotaan,2022,0.82
+Nusa Tenggara Timur,Perkotaan,2023,0.55
+Nusa Tenggara Timur,Perkotaan,2024,0.31
+Nusa Tenggara Timur,Perdesaan,2020,0.1
+Nusa Tenggara Timur,Perdesaan,2021,0.11
+Nusa Tenggara Timur,Perdesaan,2022,0.17
+Nusa Tenggara Timur,Perdesaan,2023,0.14
+Nusa Tenggara Timur,Perdesaan,2024,0.1
+Papua,Perkotaan,2020,1.71
+Papua,Perkotaan,2021,0.68
+Papua,Perkotaan,2022,0.71
+Papua,Perkotaan,2023,0.76
+Papua,Perkotaan,2024,1.98
+Papua,Perdesaan,2020,0.12
+Papua,Perdesaan,2021,0.02
+Papua,Perdesaan,2022,0.11
+Papua,Perdesaan,2023,0.02
+Papua,Perdesaan,2024,0.13
+Papua Barat,Perkotaan,2020,0.9
+Papua Barat,Perkotaan,2021,0.24
+Papua Barat,Perkotaan,2022,0.93
+Papua Barat,Perkotaan,2023,1.5
+Papua Barat,Perkotaan,2024,
+Papua Barat,Perdesaan,2020,0.15
+Papua Barat,Perdesaan,2021,
+Papua Barat,Perdesaan,2022,0.22
+Papua Barat,Perdesaan,2023,0.29
+Papua Barat,Perdesaan,2024,0.02
+Papua Barat Daya,Perkotaan,2020,
+Papua Barat Daya,Perkotaan,2021,
+Papua Barat Daya,Perkotaan,2022,
+Papua Barat Daya,Perkotaan,2023,
+Papua Barat Daya,Perkotaan,2024,
+Papua Barat Daya,Perdesaan,2020,
+Papua Barat Daya,Perdesaan,2021,
+Papua Barat Daya,Perdesaan,2022,
+Papua Barat Daya,Perdesaan,2023,
+Papua Barat Daya,Perdesaan,2024,
+Papua Pegunungan,Perkotaan,2020,
+Papua Pegunungan,Perkotaan,2021,
+Papua Pegunungan,Perkotaan,2022,
+Papua Pegunungan,Perkotaan,2023,
+Papua Pegunungan,Perkotaan,2024,
+Papua Pegunungan,Perdesaan,2020,
+Papua Pegunungan,Perdesaan,2021,
+Papua Pegunungan,Perdesaan,2022,
+Papua Pegunungan,Perdesaan,2023,
+Papua Pegunungan,Perdesaan,2024,
+Papua Selatan,Perkotaan,2020,
+Papua Selatan,Perkotaan,2021,
+Papua Selatan,Perkotaan,2022,
+Papua Selatan,Perkotaan,2023,
+Papua Selatan,Perkotaan,2024,0.92
+Papua Selatan,Perdesaan,2020,
+Papua Selatan,Perdesaan,2021,
+Papua Selatan,Perdesaan,2022,
+Papua Selatan,Perdesaan,2023,
+Papua Selatan,Perdesaan,2024,0.07
+Papua Tengah,Perkotaan,2020,
+Papua Tengah,Perkotaan,2021,
+Papua Tengah,Perkotaan,2022,
+Papua Tengah,Perkotaan,2023,
+Papua Tengah,Perkotaan,2024,0.06
+Papua Tengah,Perdesaan,2020,
+Papua Tengah,Perdesaan,2021,
+Papua Tengah,Perdesaan,2022,
+Papua Tengah,Perdesaan,2023,
+Papua Tengah,Perdesaan,2024,0.1
+Riau,Perkotaan,2020,1.71
+Riau,Perkotaan,2021,1.0
+Riau,Perkotaan,2022,0.94
+Riau,Perkotaan,2023,0.66
+Riau,Perkotaan,2024,0.85
+Riau,Perdesaan,2020,0.12
+Riau,Perdesaan,2021,0.16
+Riau,Perdesaan,2022,0.42
+Riau,Perdesaan,2023,0.36
+Riau,Perdesaan,2024,0.41
+Sulawesi Barat,Perkotaan,2020,0.91
+Sulawesi Barat,Perkotaan,2021,0.38
+Sulawesi Barat,Perkotaan,2022,0.66
+Sulawesi Barat,Perkotaan,2023,0.54
+Sulawesi Barat,Perkotaan,2024,0.77
+Sulawesi Barat,Perdesaan,2020,0.14
+Sulawesi Barat,Perdesaan,2021,0.52
+Sulawesi Barat,Perdesaan,2022,0.04
+Sulawesi Barat,Perdesaan,2023,0.48
+Sulawesi Barat,Perdesaan,2024,0.31
+Sulawesi Selatan,Perkotaan,2020,1.63
+Sulawesi Selatan,Perkotaan,2021,0.95
+Sulawesi Selatan,Perkotaan,2022,1.22
+Sulawesi Selatan,Perkotaan,2023,1.15
+Sulawesi Selatan,Perkotaan,2024,1.16
+Sulawesi Selatan,Perdesaan,2020,0.08
+Sulawesi Selatan,Perdesaan,2021,0.04
+Sulawesi Selatan,Perdesaan,2022,0.32
+Sulawesi Selatan,Perdesaan,2023,0.33
+Sulawesi Selatan,Perdesaan,2024,0.25
+Sulawesi Tengah,Perkotaan,2020,1.93
+Sulawesi Tengah,Perkotaan,2021,1.05
+Sulawesi Tengah,Perkotaan,2022,0.6
+Sulawesi Tengah,Perkotaan,2023,0.73
+Sulawesi Tengah,Perkotaan,2024,1.16
+Sulawesi Tengah,Perdesaan,2020,0.18
+Sulawesi Tengah,Perdesaan,2021,0.01
+Sulawesi Tengah,Perdesaan,2022,0.12
+Sulawesi Tengah,Perdesaan,2023,0.05
+Sulawesi Tengah,Perdesaan,2024,0.17
+Sulawesi Tenggara,Perkotaan,2020,1.16
+Sulawesi Tenggara,Perkotaan,2021,0.21
+Sulawesi Tenggara,Perkotaan,2022,0.01
+Sulawesi Tenggara,Perkotaan,2023,0.04
+Sulawesi Tenggara,Perkotaan,2024,
+Sulawesi Tenggara,Perdesaan,2020,
+Sulawesi Tenggara,Perdesaan,2021,
+Sulawesi Tenggara,Perdesaan,2022,
+Sulawesi Tenggara,Perdesaan,2023,
+Sulawesi Tenggara,Perdesaan,2024,
+Sulawesi Utara,Perkotaan,2020,1.4
+Sulawesi Utara,Perkotaan,2021,1.31
+Sulawesi Utara,Perkotaan,2022,0.98
+Sulawesi Utara,Perkotaan,2023,0.97
+Sulawesi Utara,Perkotaan,2024,0.5
+Sulawesi Utara,Perdesaan,2020,0.04
+Sulawesi Utara,Perdesaan,2021,0.32
+Sulawesi Utara,Perdesaan,2022,0.24
+Sulawesi Utara,Perdesaan,2023,0.18
+Sulawesi Utara,Perdesaan,2024,0.14
+Sumatera Barat,Perkotaan,2020,2.11
+Sumatera Barat,Perkotaan,2021,1.37
+Sumatera Barat,Perkotaan,2022,1.6
+Sumatera Barat,Perkotaan,2023,1.33
+Sumatera Barat,Perkotaan,2024,0.78
+Sumatera Barat,Perdesaan,2020,0.12
+Sumatera Barat,Perdesaan,2021,0.06
+Sumatera Barat,Perdesaan,2022,0.21
+Sumatera Barat,Perdesaan,2023,0.37
+Sumatera Barat,Perdesaan,2024,0.24
+Sumatera Selatan,Perkotaan,2020,2.41
+Sumatera Selatan,Perkotaan,2021,1.92
+Sumatera Selatan,Perkotaan,2022,2.0
+Sumatera Selatan,Perkotaan,2023,1.77
+Sumatera Selatan,Perkotaan,2024,0.95
+Sumatera Selatan,Perdesaan,2020,0.11
+Sumatera Selatan,Perdesaan,2021,0.05
+Sumatera Selatan,Perdesaan,2022,0.19
+Sumatera Selatan,Perdesaan,2023,0.22
+Sumatera Selatan,Perdesaan,2024,0.26
+Sumatera Utara,Perkotaan,2020,1.12
+Sumatera Utara,Perkotaan,2021,0.8
+Sumatera Utara,Perkotaan,2022,1.27
+Sumatera Utara,Perkotaan,2023,0.61
+Sumatera Utara,Perkotaan,2024,0.78
+Sumatera Utara,Perdesaan,2020,0.28
+Sumatera Utara,Perdesaan,2021,0.11
+Sumatera Utara,Perdesaan,2022,0.17
+Sumatera Utara,Perdesaan,2023,0.23
+Sumatera Utara,Perdesaan,2024,0.23

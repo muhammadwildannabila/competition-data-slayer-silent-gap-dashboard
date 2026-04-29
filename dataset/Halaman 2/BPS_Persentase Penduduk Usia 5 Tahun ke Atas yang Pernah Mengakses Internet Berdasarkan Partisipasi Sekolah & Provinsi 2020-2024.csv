@@ -1,0 +1,571 @@
+﻿Provinsi,Status Pendidikan,Tahun,Persentase
+Aceh,Tidak/Belum Pernah Sekolah,2024,1.66
+Aceh,Tidak/Belum Pernah Sekolah,2023,2.03
+Aceh,Tidak/Belum Pernah Sekolah,2022,1.31
+Aceh,Tidak/Belum Pernah Sekolah,2021,1.16
+Aceh,Tidak/Belum Pernah Sekolah,2020,0.82
+Aceh,Masih Bersekolah,2024,27.9
+Aceh,Masih Bersekolah,2023,30.01
+Aceh,Masih Bersekolah,2022,29.7
+Aceh,Masih Bersekolah,2021,31.71
+Aceh,Masih Bersekolah,2020,29.92
+Aceh,Tidak Sekolah Lagi,2024,70.44
+Aceh,Tidak Sekolah Lagi,2023,67.96
+Aceh,Tidak Sekolah Lagi,2022,68.98
+Aceh,Tidak Sekolah Lagi,2021,67.14
+Aceh,Tidak Sekolah Lagi,2020,69.26
+Sumatera Utara,Tidak/Belum Pernah Sekolah,2024,2.11
+Sumatera Utara,Tidak/Belum Pernah Sekolah,2023,2.15
+Sumatera Utara,Tidak/Belum Pernah Sekolah,2022,1.82
+Sumatera Utara,Tidak/Belum Pernah Sekolah,2021,1.51
+Sumatera Utara,Tidak/Belum Pernah Sekolah,2020,1.3
+Sumatera Utara,Masih Bersekolah,2024,28.27
+Sumatera Utara,Masih Bersekolah,2023,29.75
+Sumatera Utara,Masih Bersekolah,2022,30.71
+Sumatera Utara,Masih Bersekolah,2021,34.15
+Sumatera Utara,Masih Bersekolah,2020,32.54
+Sumatera Utara,Tidak Sekolah Lagi,2024,69.62
+Sumatera Utara,Tidak Sekolah Lagi,2023,68.1
+Sumatera Utara,Tidak Sekolah Lagi,2022,67.47
+Sumatera Utara,Tidak Sekolah Lagi,2021,64.34
+Sumatera Utara,Tidak Sekolah Lagi,2020,66.17
+Sumatera Barat,Tidak/Belum Pernah Sekolah,2024,2.61
+Sumatera Barat,Tidak/Belum Pernah Sekolah,2023,2.34
+Sumatera Barat,Tidak/Belum Pernah Sekolah,2022,1.89
+Sumatera Barat,Tidak/Belum Pernah Sekolah,2021,1.63
+Sumatera Barat,Tidak/Belum Pernah Sekolah,2020,1.24
+Sumatera Barat,Masih Bersekolah,2024,30.87
+Sumatera Barat,Masih Bersekolah,2023,31.33
+Sumatera Barat,Masih Bersekolah,2022,31.68
+Sumatera Barat,Masih Bersekolah,2021,34.55
+Sumatera Barat,Masih Bersekolah,2020,32.73
+Sumatera Barat,Tidak Sekolah Lagi,2024,66.51
+Sumatera Barat,Tidak Sekolah Lagi,2023,66.32
+Sumatera Barat,Tidak Sekolah Lagi,2022,66.42
+Sumatera Barat,Tidak Sekolah Lagi,2021,63.82
+Sumatera Barat,Tidak Sekolah Lagi,2020,66.03
+Riau,Tidak/Belum Pernah Sekolah,2024,2.39
+Riau,Tidak/Belum Pernah Sekolah,2023,2.55
+Riau,Tidak/Belum Pernah Sekolah,2022,2.27
+Riau,Tidak/Belum Pernah Sekolah,2021,1.72
+Riau,Tidak/Belum Pernah Sekolah,2020,1.59
+Riau,Masih Bersekolah,2024,28.26
+Riau,Masih Bersekolah,2023,29.32
+Riau,Masih Bersekolah,2022,29.38
+Riau,Masih Bersekolah,2021,32.43
+Riau,Masih Bersekolah,2020,28.8
+Riau,Tidak Sekolah Lagi,2024,69.36
+Riau,Tidak Sekolah Lagi,2023,68.13
+Riau,Tidak Sekolah Lagi,2022,68.35
+Riau,Tidak Sekolah Lagi,2021,65.86
+Riau,Tidak Sekolah Lagi,2020,69.61
+Jambi,Tidak/Belum Pernah Sekolah,2024,2.55
+Jambi,Tidak/Belum Pernah Sekolah,2023,2.65
+Jambi,Tidak/Belum Pernah Sekolah,2022,2.39
+Jambi,Tidak/Belum Pernah Sekolah,2021,1.35
+Jambi,Tidak/Belum Pernah Sekolah,2020,1.26
+Jambi,Masih Bersekolah,2024,27.16
+Jambi,Masih Bersekolah,2023,28.08
+Jambi,Masih Bersekolah,2022,28.22
+Jambi,Masih Bersekolah,2021,29.82
+Jambi,Masih Bersekolah,2020,29.36
+Jambi,Tidak Sekolah Lagi,2024,70.29
+Jambi,Tidak Sekolah Lagi,2023,69.27
+Jambi,Tidak Sekolah Lagi,2022,69.4
+Jambi,Tidak Sekolah Lagi,2021,68.83
+Jambi,Tidak Sekolah Lagi,2020,69.38
+Sumatera Selatan,Tidak/Belum Pernah Sekolah,2024,2.05
+Sumatera Selatan,Tidak/Belum Pernah Sekolah,2023,2.06
+Sumatera Selatan,Tidak/Belum Pernah Sekolah,2022,1.98
+Sumatera Selatan,Tidak/Belum Pernah Sekolah,2021,1.34
+Sumatera Selatan,Tidak/Belum Pernah Sekolah,2020,0.86
+Sumatera Selatan,Masih Bersekolah,2024,27.6
+Sumatera Selatan,Masih Bersekolah,2023,29.15
+Sumatera Selatan,Masih Bersekolah,2022,30.32
+Sumatera Selatan,Masih Bersekolah,2021,33.55
+Sumatera Selatan,Masih Bersekolah,2020,30.37
+Sumatera Selatan,Tidak Sekolah Lagi,2024,70.35
+Sumatera Selatan,Tidak Sekolah Lagi,2023,68.8
+Sumatera Selatan,Tidak Sekolah Lagi,2022,67.71
+Sumatera Selatan,Tidak Sekolah Lagi,2021,65.11
+Sumatera Selatan,Tidak Sekolah Lagi,2020,68.76
+Bengkulu,Tidak/Belum Pernah Sekolah,2024,2.19
+Bengkulu,Tidak/Belum Pernah Sekolah,2023,1.89
+Bengkulu,Tidak/Belum Pernah Sekolah,2022,2.15
+Bengkulu,Tidak/Belum Pernah Sekolah,2021,1.54
+Bengkulu,Tidak/Belum Pernah Sekolah,2020,1.21
+Bengkulu,Masih Bersekolah,2024,27.95
+Bengkulu,Masih Bersekolah,2023,29.94
+Bengkulu,Masih Bersekolah,2022,31.3
+Bengkulu,Masih Bersekolah,2021,34.2
+Bengkulu,Masih Bersekolah,2020,33.45
+Bengkulu,Tidak Sekolah Lagi,2024,69.86
+Bengkulu,Tidak Sekolah Lagi,2023,68.17
+Bengkulu,Tidak Sekolah Lagi,2022,66.54
+Bengkulu,Tidak Sekolah Lagi,2021,64.26
+Bengkulu,Tidak Sekolah Lagi,2020,65.35
+Lampung,Tidak/Belum Pernah Sekolah,2024,2.96
+Lampung,Tidak/Belum Pernah Sekolah,2023,2.81
+Lampung,Tidak/Belum Pernah Sekolah,2022,2.76
+Lampung,Tidak/Belum Pernah Sekolah,2021,2.26
+Lampung,Tidak/Belum Pernah Sekolah,2020,1.72
+Lampung,Masih Bersekolah,2024,26.21
+Lampung,Masih Bersekolah,2023,27.53
+Lampung,Masih Bersekolah,2022,29.35
+Lampung,Masih Bersekolah,2021,32.11
+Lampung,Masih Bersekolah,2020,30.08
+Lampung,Tidak Sekolah Lagi,2024,70.83
+Lampung,Tidak Sekolah Lagi,2023,69.66
+Lampung,Tidak Sekolah Lagi,2022,67.89
+Lampung,Tidak Sekolah Lagi,2021,65.64
+Lampung,Tidak Sekolah Lagi,2020,68.21
+Kep. Bangka Belitung,Tidak/Belum Pernah Sekolah,2024,2.71
+Kep. Bangka Belitung,Tidak/Belum Pernah Sekolah,2023,2.48
+Kep. Bangka Belitung,Tidak/Belum Pernah Sekolah,2022,2.15
+Kep. Bangka Belitung,Tidak/Belum Pernah Sekolah,2021,1.86
+Kep. Bangka Belitung,Tidak/Belum Pernah Sekolah,2020,1.9
+Kep. Bangka Belitung,Masih Bersekolah,2024,26.58
+Kep. Bangka Belitung,Masih Bersekolah,2023,27.21
+Kep. Bangka Belitung,Masih Bersekolah,2022,26.94
+Kep. Bangka Belitung,Masih Bersekolah,2021,29.97
+Kep. Bangka Belitung,Masih Bersekolah,2020,26.96
+Kep. Bangka Belitung,Tidak Sekolah Lagi,2024,70.71
+Kep. Bangka Belitung,Tidak Sekolah Lagi,2023,70.31
+Kep. Bangka Belitung,Tidak Sekolah Lagi,2022,70.91
+Kep. Bangka Belitung,Tidak Sekolah Lagi,2021,68.17
+Kep. Bangka Belitung,Tidak Sekolah Lagi,2020,71.14
+Kep. Riau,Tidak/Belum Pernah Sekolah,2024,3.45
+Kep. Riau,Tidak/Belum Pernah Sekolah,2023,2.56
+Kep. Riau,Tidak/Belum Pernah Sekolah,2022,2.59
+Kep. Riau,Tidak/Belum Pernah Sekolah,2021,1.85
+Kep. Riau,Tidak/Belum Pernah Sekolah,2020,1.19
+Kep. Riau,Masih Bersekolah,2024,23.46
+Kep. Riau,Masih Bersekolah,2023,24.69
+Kep. Riau,Masih Bersekolah,2022,25.4
+Kep. Riau,Masih Bersekolah,2021,26.26
+Kep. Riau,Masih Bersekolah,2020,20.57
+Kep. Riau,Tidak Sekolah Lagi,2024,73.09
+Kep. Riau,Tidak Sekolah Lagi,2023,72.75
+Kep. Riau,Tidak Sekolah Lagi,2022,72.01
+Kep. Riau,Tidak Sekolah Lagi,2021,71.89
+Kep. Riau,Tidak Sekolah Lagi,2020,78.24
+DKI Jakarta,Tidak/Belum Pernah Sekolah,2024,1.88
+DKI Jakarta,Tidak/Belum Pernah Sekolah,2023,2.01
+DKI Jakarta,Tidak/Belum Pernah Sekolah,2022,1.52
+DKI Jakarta,Tidak/Belum Pernah Sekolah,2021,1.95
+DKI Jakarta,Tidak/Belum Pernah Sekolah,2020,1.47
+DKI Jakarta,Masih Bersekolah,2024,21.04
+DKI Jakarta,Masih Bersekolah,2023,20.99
+DKI Jakarta,Masih Bersekolah,2022,21.96
+DKI Jakarta,Masih Bersekolah,2021,22.63
+DKI Jakarta,Masih Bersekolah,2020,20.03
+DKI Jakarta,Tidak Sekolah Lagi,2024,77.08
+DKI Jakarta,Tidak Sekolah Lagi,2023,77.01
+DKI Jakarta,Tidak Sekolah Lagi,2022,76.52
+DKI Jakarta,Tidak Sekolah Lagi,2021,75.42
+DKI Jakarta,Tidak Sekolah Lagi,2020,78.5
+Jawa Barat,Tidak/Belum Pernah Sekolah,2024,2.29
+Jawa Barat,Tidak/Belum Pernah Sekolah,2023,2.29
+Jawa Barat,Tidak/Belum Pernah Sekolah,2022,2.07
+Jawa Barat,Tidak/Belum Pernah Sekolah,2021,1.68
+Jawa Barat,Tidak/Belum Pernah Sekolah,2020,1.11
+Jawa Barat,Masih Bersekolah,2024,24.97
+Jawa Barat,Masih Bersekolah,2023,24.87
+Jawa Barat,Masih Bersekolah,2022,25.75
+Jawa Barat,Masih Bersekolah,2021,28.56
+Jawa Barat,Masih Bersekolah,2020,25.49
+Jawa Barat,Tidak Sekolah Lagi,2024,72.74
+Jawa Barat,Tidak Sekolah Lagi,2023,72.84
+Jawa Barat,Tidak Sekolah Lagi,2022,72.17
+Jawa Barat,Tidak Sekolah Lagi,2021,69.76
+Jawa Barat,Tidak Sekolah Lagi,2020,73.4
+Jawa Tengah,Tidak/Belum Pernah Sekolah,2024,2.71
+Jawa Tengah,Tidak/Belum Pernah Sekolah,2023,2.66
+Jawa Tengah,Tidak/Belum Pernah Sekolah,2022,2.44
+Jawa Tengah,Tidak/Belum Pernah Sekolah,2021,2.06
+Jawa Tengah,Tidak/Belum Pernah Sekolah,2020,1.48
+Jawa Tengah,Masih Bersekolah,2024,25.39
+Jawa Tengah,Masih Bersekolah,2023,26.13
+Jawa Tengah,Masih Bersekolah,2022,26.86
+Jawa Tengah,Masih Bersekolah,2021,29.71
+Jawa Tengah,Masih Bersekolah,2020,28.24
+Jawa Tengah,Tidak Sekolah Lagi,2024,71.9
+Jawa Tengah,Tidak Sekolah Lagi,2023,71.22
+Jawa Tengah,Tidak Sekolah Lagi,2022,70.7
+Jawa Tengah,Tidak Sekolah Lagi,2021,68.23
+Jawa Tengah,Tidak Sekolah Lagi,2020,70.29
+DI Yogyakarta,Tidak/Belum Pernah Sekolah,2024,2.45
+DI Yogyakarta,Tidak/Belum Pernah Sekolah,2023,2.34
+DI Yogyakarta,Tidak/Belum Pernah Sekolah,2022,2.48
+DI Yogyakarta,Tidak/Belum Pernah Sekolah,2021,2.53
+DI Yogyakarta,Tidak/Belum Pernah Sekolah,2020,2.19
+DI Yogyakarta,Masih Bersekolah,2024,26.78
+DI Yogyakarta,Masih Bersekolah,2023,27.23
+DI Yogyakarta,Masih Bersekolah,2022,29.2
+DI Yogyakarta,Masih Bersekolah,2021,30.54
+DI Yogyakarta,Masih Bersekolah,2020,29.28
+DI Yogyakarta,Tidak Sekolah Lagi,2024,70.76
+DI Yogyakarta,Tidak Sekolah Lagi,2023,70.43
+DI Yogyakarta,Tidak Sekolah Lagi,2022,68.32
+DI Yogyakarta,Tidak Sekolah Lagi,2021,66.94
+DI Yogyakarta,Tidak Sekolah Lagi,2020,68.53
+Jawa Timur,Tidak/Belum Pernah Sekolah,2024,2.44
+Jawa Timur,Tidak/Belum Pernah Sekolah,2023,2.51
+Jawa Timur,Tidak/Belum Pernah Sekolah,2022,2.38
+Jawa Timur,Tidak/Belum Pernah Sekolah,2021,2
+Jawa Timur,Tidak/Belum Pernah Sekolah,2020,1.58
+Jawa Timur,Masih Bersekolah,2024,23.88
+Jawa Timur,Masih Bersekolah,2023,24.77
+Jawa Timur,Masih Bersekolah,2022,26.47
+Jawa Timur,Masih Bersekolah,2021,28.24
+Jawa Timur,Masih Bersekolah,2020,27.26
+Jawa Timur,Tidak Sekolah Lagi,2024,73.68
+Jawa Timur,Tidak Sekolah Lagi,2023,72.72
+Jawa Timur,Tidak Sekolah Lagi,2022,71.15
+Jawa Timur,Tidak Sekolah Lagi,2021,69.76
+Jawa Timur,Tidak Sekolah Lagi,2020,71.16
+Banten,Tidak/Belum Pernah Sekolah,2024,1.92
+Banten,Tidak/Belum Pernah Sekolah,2023,1.99
+Banten,Tidak/Belum Pernah Sekolah,2022,2.05
+Banten,Tidak/Belum Pernah Sekolah,2021,1.59
+Banten,Tidak/Belum Pernah Sekolah,2020,1.41
+Banten,Masih Bersekolah,2024,24.92
+Banten,Masih Bersekolah,2023,25.41
+Banten,Masih Bersekolah,2022,25.83
+Banten,Masih Bersekolah,2021,26.77
+Banten,Masih Bersekolah,2020,24.1
+Banten,Tidak Sekolah Lagi,2024,73.16
+Banten,Tidak Sekolah Lagi,2023,72.6
+Banten,Tidak Sekolah Lagi,2022,72.12
+Banten,Tidak Sekolah Lagi,2021,71.64
+Banten,Tidak Sekolah Lagi,2020,74.49
+Bali,Tidak/Belum Pernah Sekolah,2024,2.43
+Bali,Tidak/Belum Pernah Sekolah,2023,2.81
+Bali,Tidak/Belum Pernah Sekolah,2022,2.17
+Bali,Tidak/Belum Pernah Sekolah,2021,1.76
+Bali,Tidak/Belum Pernah Sekolah,2020,1.2
+Bali,Masih Bersekolah,2024,24.64
+Bali,Masih Bersekolah,2023,25.91
+Bali,Masih Bersekolah,2022,26.65
+Bali,Masih Bersekolah,2021,28.71
+Bali,Masih Bersekolah,2020,27
+Bali,Tidak Sekolah Lagi,2024,72.93
+Bali,Tidak Sekolah Lagi,2023,71.28
+Bali,Tidak Sekolah Lagi,2022,71.18
+Bali,Tidak Sekolah Lagi,2021,69.52
+Bali,Tidak Sekolah Lagi,2020,71.8
+Nusa Tenggara Barat,Tidak/Belum Pernah Sekolah,2024,3.8
+Nusa Tenggara Barat,Tidak/Belum Pernah Sekolah,2023,4.25
+Nusa Tenggara Barat,Tidak/Belum Pernah Sekolah,2022,3.75
+Nusa Tenggara Barat,Tidak/Belum Pernah Sekolah,2021,3.03
+Nusa Tenggara Barat,Tidak/Belum Pernah Sekolah,2020,2.09
+Nusa Tenggara Barat,Masih Bersekolah,2024,31.44
+Nusa Tenggara Barat,Masih Bersekolah,2023,32
+Nusa Tenggara Barat,Masih Bersekolah,2022,32.82
+Nusa Tenggara Barat,Masih Bersekolah,2021,34.88
+Nusa Tenggara Barat,Masih Bersekolah,2020,33.92
+Nusa Tenggara Barat,Tidak Sekolah Lagi,2024,64.76
+Nusa Tenggara Barat,Tidak Sekolah Lagi,2023,63.75
+Nusa Tenggara Barat,Tidak Sekolah Lagi,2022,63.43
+Nusa Tenggara Barat,Tidak Sekolah Lagi,2021,62.09
+Nusa Tenggara Barat,Tidak Sekolah Lagi,2020,63.99
+Nusa Tenggara Timur,Tidak/Belum Pernah Sekolah,2024,2.03
+Nusa Tenggara Timur,Tidak/Belum Pernah Sekolah,2023,2.09
+Nusa Tenggara Timur,Tidak/Belum Pernah Sekolah,2022,1.74
+Nusa Tenggara Timur,Tidak/Belum Pernah Sekolah,2021,1.33
+Nusa Tenggara Timur,Tidak/Belum Pernah Sekolah,2020,1.04
+Nusa Tenggara Timur,Masih Bersekolah,2024,28.93
+Nusa Tenggara Timur,Masih Bersekolah,2023,30.3
+Nusa Tenggara Timur,Masih Bersekolah,2022,31.93
+Nusa Tenggara Timur,Masih Bersekolah,2021,34.22
+Nusa Tenggara Timur,Masih Bersekolah,2020,33.08
+Nusa Tenggara Timur,Tidak Sekolah Lagi,2024,69.04
+Nusa Tenggara Timur,Tidak Sekolah Lagi,2023,67.61
+Nusa Tenggara Timur,Tidak Sekolah Lagi,2022,66.33
+Nusa Tenggara Timur,Tidak Sekolah Lagi,2021,64.45
+Nusa Tenggara Timur,Tidak Sekolah Lagi,2020,65.88
+Kalimantan Barat,Tidak/Belum Pernah Sekolah,2024,2.93
+Kalimantan Barat,Tidak/Belum Pernah Sekolah,2023,2.71
+Kalimantan Barat,Tidak/Belum Pernah Sekolah,2022,2.33
+Kalimantan Barat,Tidak/Belum Pernah Sekolah,2021,1.81
+Kalimantan Barat,Tidak/Belum Pernah Sekolah,2020,1.55
+Kalimantan Barat,Masih Bersekolah,2024,25.69
+Kalimantan Barat,Masih Bersekolah,2023,26.84
+Kalimantan Barat,Masih Bersekolah,2022,27.94
+Kalimantan Barat,Masih Bersekolah,2021,30.64
+Kalimantan Barat,Masih Bersekolah,2020,29.4
+Kalimantan Barat,Tidak Sekolah Lagi,2024,71.38
+Kalimantan Barat,Tidak Sekolah Lagi,2023,70.45
+Kalimantan Barat,Tidak Sekolah Lagi,2022,69.73
+Kalimantan Barat,Tidak Sekolah Lagi,2021,67.55
+Kalimantan Barat,Tidak Sekolah Lagi,2020,69.05
+Kalimantan Tengah,Tidak/Belum Pernah Sekolah,2024,1.88
+Kalimantan Tengah,Tidak/Belum Pernah Sekolah,2023,2.35
+Kalimantan Tengah,Tidak/Belum Pernah Sekolah,2022,2.16
+Kalimantan Tengah,Tidak/Belum Pernah Sekolah,2021,1.83
+Kalimantan Tengah,Tidak/Belum Pernah Sekolah,2020,1.19
+Kalimantan Tengah,Masih Bersekolah,2024,23.88
+Kalimantan Tengah,Masih Bersekolah,2023,25.97
+Kalimantan Tengah,Masih Bersekolah,2022,26.48
+Kalimantan Tengah,Masih Bersekolah,2021,28.68
+Kalimantan Tengah,Masih Bersekolah,2020,26.74
+Kalimantan Tengah,Tidak Sekolah Lagi,2024,74.23
+Kalimantan Tengah,Tidak Sekolah Lagi,2023,71.68
+Kalimantan Tengah,Tidak Sekolah Lagi,2022,71.36
+Kalimantan Tengah,Tidak Sekolah Lagi,2021,69.49
+Kalimantan Tengah,Tidak Sekolah Lagi,2020,72.06
+Kalimantan Selatan,Tidak/Belum Pernah Sekolah,2024,2.37
+Kalimantan Selatan,Tidak/Belum Pernah Sekolah,2023,2.79
+Kalimantan Selatan,Tidak/Belum Pernah Sekolah,2022,2.95
+Kalimantan Selatan,Tidak/Belum Pernah Sekolah,2021,2.82
+Kalimantan Selatan,Tidak/Belum Pernah Sekolah,2020,2.22
+Kalimantan Selatan,Masih Bersekolah,2024,27.47
+Kalimantan Selatan,Masih Bersekolah,2023,27.57
+Kalimantan Selatan,Masih Bersekolah,2022,28.77
+Kalimantan Selatan,Masih Bersekolah,2021,32.16
+Kalimantan Selatan,Masih Bersekolah,2020,29.71
+Kalimantan Selatan,Tidak Sekolah Lagi,2024,70.16
+Kalimantan Selatan,Tidak Sekolah Lagi,2023,69.65
+Kalimantan Selatan,Tidak Sekolah Lagi,2022,68.28
+Kalimantan Selatan,Tidak Sekolah Lagi,2021,65.03
+Kalimantan Selatan,Tidak Sekolah Lagi,2020,68.07
+Kalimantan Timur,Tidak/Belum Pernah Sekolah,2024,2.43
+Kalimantan Timur,Tidak/Belum Pernah Sekolah,2023,2.35
+Kalimantan Timur,Tidak/Belum Pernah Sekolah,2022,2.5
+Kalimantan Timur,Tidak/Belum Pernah Sekolah,2021,2.17
+Kalimantan Timur,Tidak/Belum Pernah Sekolah,2020,2.35
+Kalimantan Timur,Masih Bersekolah,2024,26.72
+Kalimantan Timur,Masih Bersekolah,2023,26.91
+Kalimantan Timur,Masih Bersekolah,2022,29.09
+Kalimantan Timur,Masih Bersekolah,2021,29.88
+Kalimantan Timur,Masih Bersekolah,2020,26.93
+Kalimantan Timur,Tidak Sekolah Lagi,2024,70.85
+Kalimantan Timur,Tidak Sekolah Lagi,2023,70.74
+Kalimantan Timur,Tidak Sekolah Lagi,2022,68.4
+Kalimantan Timur,Tidak Sekolah Lagi,2021,67.95
+Kalimantan Timur,Tidak Sekolah Lagi,2020,70.72
+Kalimantan Utara,Tidak/Belum Pernah Sekolah,2024,3.57
+Kalimantan Utara,Tidak/Belum Pernah Sekolah,2023,3.94
+Kalimantan Utara,Tidak/Belum Pernah Sekolah,2022,4.11
+Kalimantan Utara,Tidak/Belum Pernah Sekolah,2021,2.58
+Kalimantan Utara,Tidak/Belum Pernah Sekolah,2020,2.25
+Kalimantan Utara,Masih Bersekolah,2024,25.3
+Kalimantan Utara,Masih Bersekolah,2023,27.3
+Kalimantan Utara,Masih Bersekolah,2022,28.01
+Kalimantan Utara,Masih Bersekolah,2021,28.82
+Kalimantan Utara,Masih Bersekolah,2020,27.29
+Kalimantan Utara,Tidak Sekolah Lagi,2024,71.13
+Kalimantan Utara,Tidak Sekolah Lagi,2023,68.76
+Kalimantan Utara,Tidak Sekolah Lagi,2022,67.88
+Kalimantan Utara,Tidak Sekolah Lagi,2021,68.6
+Kalimantan Utara,Tidak Sekolah Lagi,2020,70.47
+Sulawesi Utara,Tidak/Belum Pernah Sekolah,2024,1.42
+Sulawesi Utara,Tidak/Belum Pernah Sekolah,2023,1.71
+Sulawesi Utara,Tidak/Belum Pernah Sekolah,2022,1.04
+Sulawesi Utara,Tidak/Belum Pernah Sekolah,2021,1.39
+Sulawesi Utara,Tidak/Belum Pernah Sekolah,2020,0.89
+Sulawesi Utara,Masih Bersekolah,2024,24.55
+Sulawesi Utara,Masih Bersekolah,2023,24.77
+Sulawesi Utara,Masih Bersekolah,2022,26.06
+Sulawesi Utara,Masih Bersekolah,2021,28.27
+Sulawesi Utara,Masih Bersekolah,2020,26.82
+Sulawesi Utara,Tidak Sekolah Lagi,2024,74.03
+Sulawesi Utara,Tidak Sekolah Lagi,2023,73.53
+Sulawesi Utara,Tidak Sekolah Lagi,2022,72.9
+Sulawesi Utara,Tidak Sekolah Lagi,2021,70.35
+Sulawesi Utara,Tidak Sekolah Lagi,2020,72.29
+Sulawesi Tengah,Tidak/Belum Pernah Sekolah,2024,1.91
+Sulawesi Tengah,Tidak/Belum Pernah Sekolah,2023,2.36
+Sulawesi Tengah,Tidak/Belum Pernah Sekolah,2022,2.04
+Sulawesi Tengah,Tidak/Belum Pernah Sekolah,2021,1.64
+Sulawesi Tengah,Tidak/Belum Pernah Sekolah,2020,1.19
+Sulawesi Tengah,Masih Bersekolah,2024,28.49
+Sulawesi Tengah,Masih Bersekolah,2023,29.62
+Sulawesi Tengah,Masih Bersekolah,2022,30.91
+Sulawesi Tengah,Masih Bersekolah,2021,33.92
+Sulawesi Tengah,Masih Bersekolah,2020,32.12
+Sulawesi Tengah,Tidak Sekolah Lagi,2024,69.6
+Sulawesi Tengah,Tidak Sekolah Lagi,2023,68.01
+Sulawesi Tengah,Tidak Sekolah Lagi,2022,67.05
+Sulawesi Tengah,Tidak Sekolah Lagi,2021,64.43
+Sulawesi Tengah,Tidak Sekolah Lagi,2020,66.69
+Sulawesi Selatan,Tidak/Belum Pernah Sekolah,2024,2.85
+Sulawesi Selatan,Tidak/Belum Pernah Sekolah,2023,3.09
+Sulawesi Selatan,Tidak/Belum Pernah Sekolah,2022,2.53
+Sulawesi Selatan,Tidak/Belum Pernah Sekolah,2021,3.14
+Sulawesi Selatan,Tidak/Belum Pernah Sekolah,2020,1.4
+Sulawesi Selatan,Masih Bersekolah,2024,27.43
+Sulawesi Selatan,Masih Bersekolah,2023,28.78
+Sulawesi Selatan,Masih Bersekolah,2022,30.86
+Sulawesi Selatan,Masih Bersekolah,2021,33.53
+Sulawesi Selatan,Masih Bersekolah,2020,32.09
+Sulawesi Selatan,Tidak Sekolah Lagi,2024,69.72
+Sulawesi Selatan,Tidak Sekolah Lagi,2023,68.14
+Sulawesi Selatan,Tidak Sekolah Lagi,2022,66.61
+Sulawesi Selatan,Tidak Sekolah Lagi,2021,63.34
+Sulawesi Selatan,Tidak Sekolah Lagi,2020,66.52
+Sulawesi Tenggara,Tidak/Belum Pernah Sekolah,2024,2.86
+Sulawesi Tenggara,Tidak/Belum Pernah Sekolah,2023,3
+Sulawesi Tenggara,Tidak/Belum Pernah Sekolah,2022,2.5
+Sulawesi Tenggara,Tidak/Belum Pernah Sekolah,2021,3.3
+Sulawesi Tenggara,Tidak/Belum Pernah Sekolah,2020,1.07
+Sulawesi Tenggara,Masih Bersekolah,2024,30.48
+Sulawesi Tenggara,Masih Bersekolah,2023,31.72
+Sulawesi Tenggara,Masih Bersekolah,2022,32.36
+Sulawesi Tenggara,Masih Bersekolah,2021,36.38
+Sulawesi Tenggara,Masih Bersekolah,2020,33.64
+Sulawesi Tenggara,Tidak Sekolah Lagi,2024,66.66
+Sulawesi Tenggara,Tidak Sekolah Lagi,2023,65.29
+Sulawesi Tenggara,Tidak Sekolah Lagi,2022,65.15
+Sulawesi Tenggara,Tidak Sekolah Lagi,2021,60.32
+Sulawesi Tenggara,Tidak Sekolah Lagi,2020,65.29
+Gorontalo,Tidak/Belum Pernah Sekolah,2024,2.5
+Gorontalo,Tidak/Belum Pernah Sekolah,2023,3.16
+Gorontalo,Tidak/Belum Pernah Sekolah,2022,2.2
+Gorontalo,Tidak/Belum Pernah Sekolah,2021,3.67
+Gorontalo,Tidak/Belum Pernah Sekolah,2020,0.93
+Gorontalo,Masih Bersekolah,2024,28.85
+Gorontalo,Masih Bersekolah,2023,31.02
+Gorontalo,Masih Bersekolah,2022,32.64
+Gorontalo,Masih Bersekolah,2021,34.5
+Gorontalo,Masih Bersekolah,2020,32.34
+Gorontalo,Tidak Sekolah Lagi,2024,68.65
+Gorontalo,Tidak Sekolah Lagi,2023,65.82
+Gorontalo,Tidak Sekolah Lagi,2022,65.16
+Gorontalo,Tidak Sekolah Lagi,2021,61.83
+Gorontalo,Tidak Sekolah Lagi,2020,66.73
+Sulawesi Barat,Tidak/Belum Pernah Sekolah,2024,4.62
+Sulawesi Barat,Tidak/Belum Pernah Sekolah,2023,4.93
+Sulawesi Barat,Tidak/Belum Pernah Sekolah,2022,4.6
+Sulawesi Barat,Tidak/Belum Pernah Sekolah,2021,3.46
+Sulawesi Barat,Tidak/Belum Pernah Sekolah,2020,1.06
+Sulawesi Barat,Masih Bersekolah,2024,29.5
+Sulawesi Barat,Masih Bersekolah,2023,30.46
+Sulawesi Barat,Masih Bersekolah,2022,30.99
+Sulawesi Barat,Masih Bersekolah,2021,34.73
+Sulawesi Barat,Masih Bersekolah,2020,31.54
+Sulawesi Barat,Tidak Sekolah Lagi,2024,65.88
+Sulawesi Barat,Tidak Sekolah Lagi,2023,64.61
+Sulawesi Barat,Tidak Sekolah Lagi,2022,64.41
+Sulawesi Barat,Tidak Sekolah Lagi,2021,61.81
+Sulawesi Barat,Tidak Sekolah Lagi,2020,67.4
+Maluku,Tidak/Belum Pernah Sekolah,2024,1.2
+Maluku,Tidak/Belum Pernah Sekolah,2023,1.58
+Maluku,Tidak/Belum Pernah Sekolah,2022,1.17
+Maluku,Tidak/Belum Pernah Sekolah,2021,2.08
+Maluku,Tidak/Belum Pernah Sekolah,2020,0.76
+Maluku,Masih Bersekolah,2024,28.85
+Maluku,Masih Bersekolah,2023,31.21
+Maluku,Masih Bersekolah,2022,31.63
+Maluku,Masih Bersekolah,2021,35.68
+Maluku,Masih Bersekolah,2020,35.8
+Maluku,Tidak Sekolah Lagi,2024,69.94
+Maluku,Tidak Sekolah Lagi,2023,67.21
+Maluku,Tidak Sekolah Lagi,2022,67.2
+Maluku,Tidak Sekolah Lagi,2021,62.25
+Maluku,Tidak Sekolah Lagi,2020,63.45
+Maluku Utara,Tidak/Belum Pernah Sekolah,2024,1.45
+Maluku Utara,Tidak/Belum Pernah Sekolah,2023,1.44
+Maluku Utara,Tidak/Belum Pernah Sekolah,2022,1.73
+Maluku Utara,Tidak/Belum Pernah Sekolah,2021,1.12
+Maluku Utara,Tidak/Belum Pernah Sekolah,2020,1.15
+Maluku Utara,Masih Bersekolah,2024,29.55
+Maluku Utara,Masih Bersekolah,2023,29.97
+Maluku Utara,Masih Bersekolah,2022,31.6
+Maluku Utara,Masih Bersekolah,2021,32.65
+Maluku Utara,Masih Bersekolah,2020,32.86
+Maluku Utara,Tidak Sekolah Lagi,2024,69
+Maluku Utara,Tidak Sekolah Lagi,2023,68.59
+Maluku Utara,Tidak Sekolah Lagi,2022,66.67
+Maluku Utara,Tidak Sekolah Lagi,2021,66.23
+Maluku Utara,Tidak Sekolah Lagi,2020,65.99
+Papua Barat,Tidak/Belum Pernah Sekolah,2024,3.15
+Papua Barat,Tidak/Belum Pernah Sekolah,2023,2.46
+Papua Barat,Tidak/Belum Pernah Sekolah,2022,2.15
+Papua Barat,Tidak/Belum Pernah Sekolah,2021,2.96
+Papua Barat,Tidak/Belum Pernah Sekolah,2020,1.36
+Papua Barat,Masih Bersekolah,2024,26.26
+Papua Barat,Masih Bersekolah,2023,26.79
+Papua Barat,Masih Bersekolah,2022,30.63
+Papua Barat,Masih Bersekolah,2021,31.46
+Papua Barat,Masih Bersekolah,2020,28.29
+Papua Barat,Tidak Sekolah Lagi,2024,70.58
+Papua Barat,Tidak Sekolah Lagi,2023,70.76
+Papua Barat,Tidak Sekolah Lagi,2022,67.22
+Papua Barat,Tidak Sekolah Lagi,2021,65.58
+Papua Barat,Tidak Sekolah Lagi,2020,70.35
+Papua Barat Daya,Tidak/Belum Pernah Sekolah,2024,1.95
+Papua Barat Daya,Tidak/Belum Pernah Sekolah,2023,
+Papua Barat Daya,Tidak/Belum Pernah Sekolah,2022,
+Papua Barat Daya,Tidak/Belum Pernah Sekolah,2021,
+Papua Barat Daya,Tidak/Belum Pernah Sekolah,2020,
+Papua Barat Daya,Masih Bersekolah,2024,26.1
+Papua Barat Daya,Masih Bersekolah,2023,
+Papua Barat Daya,Masih Bersekolah,2022,
+Papua Barat Daya,Masih Bersekolah,2021,
+Papua Barat Daya,Masih Bersekolah,2020,
+Papua Barat Daya,Tidak Sekolah Lagi,2024,71.95
+Papua Barat Daya,Tidak Sekolah Lagi,2023,
+Papua Barat Daya,Tidak Sekolah Lagi,2022,
+Papua Barat Daya,Tidak Sekolah Lagi,2021,
+Papua Barat Daya,Tidak Sekolah Lagi,2020,
+Papua,Tidak/Belum Pernah Sekolah,2024,2.05
+Papua,Tidak/Belum Pernah Sekolah,2023,4.32
+Papua,Tidak/Belum Pernah Sekolah,2022,3.39
+Papua,Tidak/Belum Pernah Sekolah,2021,3.43
+Papua,Tidak/Belum Pernah Sekolah,2020,3.5
+Papua,Masih Bersekolah,2024,24.55
+Papua,Masih Bersekolah,2023,
+Papua,Masih Bersekolah,2022,
+Papua,Masih Bersekolah,2021,
+Papua,Masih Bersekolah,2020,
+Papua,Tidak Sekolah Lagi,2024,73.4
+Papua,Tidak Sekolah Lagi,2023,70.64
+Papua,Tidak Sekolah Lagi,2022,67.93
+Papua,Tidak Sekolah Lagi,2021,67.4
+Papua,Tidak Sekolah Lagi,2020,70.4
+Papua Selatan,Tidak/Belum Pernah Sekolah,2024,3.92
+Papua Selatan,Tidak/Belum Pernah Sekolah,2023,
+Papua Selatan,Tidak/Belum Pernah Sekolah,2022,
+Papua Selatan,Tidak/Belum Pernah Sekolah,2021,
+Papua Selatan,Tidak/Belum Pernah Sekolah,2020,
+Papua Selatan,Masih Bersekolah,2024,25.75
+Papua Selatan,Masih Bersekolah,2023,
+Papua Selatan,Masih Bersekolah,2022,
+Papua Selatan,Masih Bersekolah,2021,
+Papua Selatan,Masih Bersekolah,2020,
+Papua Selatan,Tidak Sekolah Lagi,2024,70.34
+Papua Selatan,Tidak Sekolah Lagi,2023,
+Papua Selatan,Tidak Sekolah Lagi,2022,
+Papua Selatan,Tidak Sekolah Lagi,2021,
+Papua Selatan,Tidak Sekolah Lagi,2020,
+Papua Tengah,Tidak/Belum Pernah Sekolah,2024,5.14
+Papua Tengah,Tidak/Belum Pernah Sekolah,2023,
+Papua Tengah,Tidak/Belum Pernah Sekolah,2022,
+Papua Tengah,Tidak/Belum Pernah Sekolah,2021,
+Papua Tengah,Tidak/Belum Pernah Sekolah,2020,
+Papua Tengah,Masih Bersekolah,2024,23.69
+Papua Tengah,Masih Bersekolah,2023,
+Papua Tengah,Masih Bersekolah,2022,
+Papua Tengah,Masih Bersekolah,2021,
+Papua Tengah,Masih Bersekolah,2020,
+Papua Tengah,Tidak Sekolah Lagi,2024,71.17
+Papua Tengah,Tidak Sekolah Lagi,2023,
+Papua Tengah,Tidak Sekolah Lagi,2022,
+Papua Tengah,Tidak Sekolah Lagi,2021,
+Papua Tengah,Tidak Sekolah Lagi,2020,
+Papua Pegunungan,Tidak/Belum Pernah Sekolah,2024,9.75
+Papua Pegunungan,Tidak/Belum Pernah Sekolah,2023,
+Papua Pegunungan,Tidak/Belum Pernah Sekolah,2022,
+Papua Pegunungan,Tidak/Belum Pernah Sekolah,2021,
+Papua Pegunungan,Tidak/Belum Pernah Sekolah,2020,
+Papua Pegunungan,Masih Bersekolah,2024,22.99
+Papua Pegunungan,Masih Bersekolah,2023,
+Papua Pegunungan,Masih Bersekolah,2022,
+Papua Pegunungan,Masih Bersekolah,2021,
+Papua Pegunungan,Masih Bersekolah,2020,
+Papua Pegunungan,Tidak Sekolah Lagi,2024,67.26
+Papua Pegunungan,Tidak Sekolah Lagi,2023,
+Papua Pegunungan,Tidak Sekolah Lagi,2022,
+Papua Pegunungan,Tidak Sekolah Lagi,2021,
+Papua Pegunungan,Tidak Sekolah Lagi,2020,
